@@ -106,6 +106,7 @@ A MIRO board was used for analytics storytelling, and results were surfaced thro
 - Databricks SQL
 - Excel for visualization
 - Google Looker Dashboards
+- Live Dashboard: https://preview--case-story-show.lovable.app/
 - MIRO (analytics storytelling & planning)
 - PowerPoint (executive presentation)
 
